@@ -1,5 +1,8 @@
 ## test-taxi-service-deploy-heroku
-[Example deployed to heroku](https://test-taxi-service.herokuapp.com/)
+[Go to demo page](https://test-taxi-service.herokuapp.com/)
+demo access:
+login: user
+password: user12345
 ## Additional information or tagline
 
 Test deploy process project to heroku
