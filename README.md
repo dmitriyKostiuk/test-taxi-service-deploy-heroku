@@ -1,5 +1,5 @@
 ## test-taxi-service-deploy-heroku
-[deployed to heroku](https://test-taxi-service.herokuapp.com/)
+[Example deployed to heroku](https://test-taxi-service.herokuapp.com/)
 ## Additional information or tagline
 
 Test deploy process project to heroku
